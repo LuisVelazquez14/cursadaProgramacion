@@ -14,7 +14,7 @@
 int main(void) {
 
 	int numero;
-	int acumulador;
+	//int acumulador;
 
 	printf("ingrese un numero");/* prints !!!Hello World!!! */
 
