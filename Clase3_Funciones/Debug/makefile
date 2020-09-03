@@ -23,19 +23,19 @@ endif
 # Add inputs and outputs from these tool invocations to the build variables 
 
 # All Target
-all: Clase1
+all: Clase3_Funciones
 
 # Tool invocations
-Clase1: $(OBJS) $(USER_OBJS)
+Clase3_Funciones: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C Linker'
-	gcc  -o "Clase1" $(OBJS) $(USER_OBJS) $(LIBS)
+	gcc  -o "Clase3_Funciones" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
 # Other Targets
 clean:
-	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) Clase1
+	-$(RM) $(EXECUTABLES)$(OBJS)$(C_DEPS) Clase3_Funciones
 	-@echo ' '
 
 .PHONY: all clean dependents

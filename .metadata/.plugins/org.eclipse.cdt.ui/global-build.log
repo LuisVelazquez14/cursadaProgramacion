@@ -1,9 +1,202 @@
-02:42:15 **** Incremental Build of configuration Debug for project Clase2bMaxYMinSinFlag2 ****
+01:40:56 **** Incremental Build of configuration Debug for project Clase1 ****
 make all 
 make: No se hace nada para 'all'.
-02:42:31 **** Incremental Build of configuration Debug for project Clase2bMaxYMinSinFlag2 ****
+01:41:04 **** Incremental Build of configuration Debug for project Clase1 ****
 make all 
 make: No se hace nada para 'all'.
-02:42:56 **** Incremental Build of configuration Debug for project Clase2bMaxYMinSinFlag2 ****
+01:41:33 **** Incremental Build of configuration Debug for project Clase1 ****
 make all 
 make: No se hace nada para 'all'.
+01:42:37 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+../src/Clase1a.c: In function ‘main’:
+../src/Clase1a.c:19:6: warning: variable ‘respuestaScan’ set but not used [-Wunused-but-set-variable]
+  int respuestaScan;
+      ^~~~~~~~~~~~~
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:42:45 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+01:44:26 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+../src/Clase1a.c: In function ‘main’:
+../src/Clase1a.c:19:6: warning: variable ‘respuestaScan’ set but not used [-Wunused-but-set-variable]
+  int respuestaScan;
+      ^~~~~~~~~~~~~
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:44:31 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+01:45:09 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:45:12 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+01:45:37 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:45:40 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+01:46:52 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:46:54 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+01:47:33 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:47:35 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+01:48:05 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:48:08 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+01:57:15 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+../src/Clase1a.c: In function ‘main’:
+../src/Clase1a.c:22:6: warning: variable ‘promedio’ set but not used [-Wunused-but-set-variable]
+  int promedio;
+      ^~~~~~~~
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:57:39 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+../src/Clase1a.c: In function ‘main’:
+../src/Clase1a.c:22:8: warning: variable ‘promedio’ set but not used [-Wunused-but-set-variable]
+  float promedio;
+        ^~~~~~~~
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+01:58:16 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+01:58:21 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+02:00:02 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+02:00:06 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+02:00:41 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 
+02:02:03 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+make: No se hace nada para 'all'.
+02:03:01 **** Incremental Build of configuration Debug for project Clase1 ****
+make all 
+Building file: ../src/Clase1a.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Clase1a.d" -MT"src/Clase1a.o" -o "src/Clase1a.o" "../src/Clase1a.c"
+Finished building: ../src/Clase1a.c
+ 
+Building target: Clase1
+Invoking: GCC C Linker
+gcc  -o "Clase1"  ./src/Clase1a.o   
+Finished building target: Clase1
+ 

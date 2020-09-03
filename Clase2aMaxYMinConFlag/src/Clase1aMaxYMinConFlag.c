@@ -22,6 +22,7 @@ int main(void) {
 	for(i=0;i<5;i++)
 	{
 		printf("ingrese un numero: \n ");
+
 		scanf("%d",&bufferInt);
 		if(flag==1)
 		{

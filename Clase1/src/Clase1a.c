@@ -10,17 +10,35 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdio_ext.h>
 
 int main(void) {
+	//setbuf(stdout, NULL);
 
 	int numero;
-	//int acumulador;
+	int respuestaScan;
+	int i;
+	int acumulador=0;
+	float promedio;
 
-	printf("ingrese un numero");/* prints !!!Hello World!!! */
+	for(i=0;i<5;i++)
+	{
+		printf("ingrese un numero: ");
+		__fpurge(stdin);
+		respuestaScan = scanf("%d",&numero);
+		//printf("respuestascan %d \n",respuestaScan);
+		while(respuestaScan == 0)
+		{
+			printf("ERROR, ingrese un numero: ");
+			__fpurge(stdin);
+			respuestaScan = scanf("%d",&numero);
+		}
+		acumulador = acumulador + numero;
+	}
 
-	scanf("%d", &numero);
+	promedio = (float)acumulador / i; //casteo el numero para hacer el calculo momentaneamente
 
-	printf("ingresaste %d",numero);
+	printf("promedio es %.2f \n ",promedio);
 
 
 
